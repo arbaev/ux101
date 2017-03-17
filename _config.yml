@@ -43,6 +43,15 @@ highlight:
   auto_detect: false
   tab_replace:
 
+sitemap:
+    path: sitemap.xml # Путь к sitemap.xml
+marked:
+  gfm: true           # Поддержка markdown
+  breaks: false       # Отключаем чувствительность к разрывам строк
+skip_render:          # секция для игнорирования файлов в source директории
+  - 'code/**/*'       # blob маска для игнорирования обработки файлов, я использую это для демок
+disqus_shortname: mycoolblog            # необходимо зарегистрироваться на disqus.com и получить свой ID
+
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -61,9 +70,8 @@ per_page: 3
 pagination_dir: page
 
 # Extensions
-## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: https://github.com/ppoffice/hexo-theme-icarus.git
 
 ## Plugins: https://hexo.io/plugins/
 ## github emoji support
