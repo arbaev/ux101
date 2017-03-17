@@ -62,7 +62,7 @@ pagination_dir: page
 
 # Extensions
 ## Themes: https://hexo.io/themes/
-theme: bootstrap-blog
+theme: daily
 
 ## Plugins: https://hexo.io/plugins/
 ## github emoji support
