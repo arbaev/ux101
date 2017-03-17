@@ -61,9 +61,6 @@ per_page: 3
 pagination_dir: page
 
 # Extensions
-## Themes: https://hexo.io/themes/
-theme: oishi
-
 ## Plugins: https://hexo.io/plugins/
 ## github emoji support
 githubEmojis:
@@ -71,6 +68,9 @@ githubEmojis:
   className: github-emoji
   unicode: false
   localEmojis:
+
+## Themes: https://hexo.io/themes/
+theme: pln
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
