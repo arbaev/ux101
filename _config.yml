@@ -70,7 +70,7 @@ githubEmojis:
   localEmojis:
 
 ## Themes: https://hexo.io/themes/
-theme: pln
+theme: icarus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
