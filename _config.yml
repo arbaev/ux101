@@ -62,7 +62,7 @@ pagination_dir: page
 
 # Extensions
 ## Themes: https://hexo.io/themes/
-theme: https://github.com/ppoffice/hexo-theme-icarus.git
+theme: icarus
 
 ## Plugins: https://hexo.io/plugins/
 ## github emoji support
