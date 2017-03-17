@@ -65,6 +65,14 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: landscape
 
+## Plugins: https://hexo.io/plugins/
+## github emoji support
+githubEmojis:
+  enable: true
+  className: github-emoji
+  unicode: false
+  localEmojis:
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
