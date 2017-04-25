@@ -1,3 +1,9 @@
+---
+title: Customer Journey Mapping
+date: 2017-04-18 16:03:33
+tags: 
+---
+
 # Customer Journey Mapping
 Преподаватель: Таня Колтунова
 
