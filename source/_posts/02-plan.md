@@ -46,3 +46,6 @@ tags:
 
 
 
+## Дополнительные материалы
+[Inclusive UX Education: Designing a Free Online Learning Curriculum](https://uxplanet.org/inclusive-ux-education-designing-a-free-online-learning-curriculum-52154a188af3#.xl82s16ku) :uk:
+Обзор онлайн обучающих программ
