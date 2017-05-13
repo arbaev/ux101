@@ -1,7 +1,8 @@
 ---
 title: План действий
+description: Глава 2
 date: 2017-01-18 16:03:33
-tags: 
+tags:
 ---
 
 Имея сумбурное представление о реальных задачах ux-дизайнера, необходимо составить план действий для достижения поставленных целей.
@@ -47,5 +48,6 @@ tags:
 
 
 ## Дополнительные материалы
+
 [Inclusive UX Education: Designing a Free Online Learning Curriculum](https://uxplanet.org/inclusive-ux-education-designing-a-free-online-learning-curriculum-52154a188af3#.xl82s16ku) :uk:
-Обзор онлайн обучающих программ
+  Обзор онлайн обучающих программ

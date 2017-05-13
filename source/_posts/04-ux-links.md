@@ -1,10 +1,12 @@
 ---
 title: Ресурсы для изучения UX
+description: Глава 4
 date: 2017-01-22 16:03:33
 tags: 
 ---
 
 ## Статьи
+
 * :fire: [**125 простых советов по улучшению юзабилити вашего сайта**](http://projectorat.ru/125tweaks/) :ru:
   Очень полезный чеклист, периодически перечитывать и проверять на текущих проектах. Статья из блога Проектората, который «за жизнь» и тоже весь полезный
 * :memo: [**Дизайн для убеждения, рождения эмоций и доверия**](http://sketchapp.me/dizajn-dlya-ubezhdeniya-rozhdeniya-emocij-i-doveriya/) :ru:
@@ -20,6 +22,7 @@ tags:
 * [19 проверочных вопросов после первичных переговоров с клиентом](http://projectorat.ru/19pquestions/)
 
 ## Блоги
+
 [Путь начинающего дизайнера](http://mosink.ru/blog/all/progress/) — 3 февраля 2016 года я решил стать дизайнером. История Кирилла
 [Как стать UX специалистом](http://uxexperience.net/thoughts/kak-stat-ux-specialistom-2) - план действий от белорусского профессионала
 [Юрий Ветров об интерфейсах](http://www.jvetrau.com/) - блог руководителя портальной дизайн-команды в компании Mail.Ru Group
@@ -33,6 +36,7 @@ tags:
 [Блог Юзетикса на Медиуме](https://medium.com/usethics-doc) - прочитать бы
 
 ## Вдохновение
+
 [Беханс](https://www.behance.net/search?field=51&content=projects&sort=appreciations&time=week)
 [Журнал Мюзли](https://medium.muz.li/) — UI концепты, еженедельные дизайнерские вдохновляшки
 [UIpatterns](http://ui-patterns.com/patterns) - поможет создать ui-kit
@@ -41,6 +45,7 @@ tags:
 
 
 ## Полезное
+
 * [**Коллекция стайлгайдов**](http://styleguides.io/)
   Чтобы не изобретать тернистый велосипед, а придерживаться лучших практик
 * [**Шаблоны писем известных сервисов**](http://www.goodemailcopy.com/)
@@ -51,8 +56,11 @@ tags:
 
 
 ## Курсы
+
 * [**Проектирование интерфейсов: UX-дизайн от стратегии до тестирования**](http://netology.ru/programs/ui-ux) :ru:
   Платный курс от Нетологии
+* [Дизайнер интерфейсов. Введение в специальность](https://www.coursera.org/learn/ux-ui-design) :ru:
+  Курс для новичков от Mail.ru Group и Contented
 * [**Learn how to design great user experiences**](https://www.coursera.org/specializations/interaction-design) :uk:
   Специализация из 8 курсов на Coursera
 * [**User Experience (UX): The Ultimate Guide to Usability and UX**](https://www.udemy.com/ultimate-guide-to-ux/) :uk:
