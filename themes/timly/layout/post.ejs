@@ -46,8 +46,8 @@
       <% if (page.prev) { %>
         <div class="nav-previous">
           <a href="<%- config.root %><%- page.prev.path %>" rel="prev">
-            <span class="meta-arraw meta-arraw-right"></span>
-            <div class="nav-links-sub align-right">
+            <span class="meta-arraw meta-arraw-left"></span>
+            <div class="nav-links-sub">
               <%- __('prev') %>
             </div>
             <div class="nav-links-title">
@@ -62,10 +62,10 @@
             <div class="nav-links-title">
               <%- page.next.title %>
             </div>
-            <div class="nav-links-sub">
+            <div class="nav-links-sub align-right">
               <%- __('next')%>
             </div>
-            <span class="meta-arraw meta-arraw-left"></span>
+            <span class="meta-arraw meta-arraw-right"></span>
           </a>
         </div>
       <% } %>
