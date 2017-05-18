@@ -69,6 +69,10 @@ tags:
   Хорошие курсы по подписке
 * подготовительные курсы бюро Горбунова
 
+[Inclusive UX Education: Designing a Free Online Learning Curriculum](https://uxplanet.org/inclusive-ux-education-designing-a-free-online-learning-curriculum-52154a188af3#.xl82s16ku) :uk:
+  Обзор онлайн обучающих программ
+
+
 ***
 
 * [**"Школа мобильного дизайна" Яндекса**](https://www.youtube.com/watch?v=6lSoS5D4IHM&list=PLLkvpHo_HuBPmL0SFkxBAEaV7pvL9mMth) :ru:
