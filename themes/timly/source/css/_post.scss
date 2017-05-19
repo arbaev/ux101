@@ -31,8 +31,8 @@
   }
 }
 .nav-links-sub {
-  display: table-caption;
-  color: #007FB5;
+  display: table-header-group;
+  color: $color-link;
   font-weight: 700;
   font-size: 0.750em;
 }

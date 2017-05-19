@@ -456,8 +456,9 @@ Content
   height: 17px;
   background: url("../images/arrow-left.svg") no-repeat;
   display: inline-block;
-  margin-bottom: -4px;
+  margin-bottom: -16pt;
   margin-right: 5px;
+  margin-left: 5px;
   opacity: 0.3;
   transition: opacity 0.5s ease;
 }
