@@ -35,12 +35,14 @@
         </div>
       </article>
     </div>
-    <!-- Comments -->
-    <div class="container">
-      <%- partial('_partial/comment', {
-          shortname: config.disqus_shortname
-        }) %>
-    </div>
+    <% if (page.comments){ %>
+      <!-- Comments -->
+      <div class="container">
+        <%- partial('_partial/comment', {
+            disqus: theme.disqus_shortname
+          }) %>
+      </div>
+    <% } %>
     <!-- Pre or Next -->
     <div class="nav-links">
       <% if (page.prev) { %>

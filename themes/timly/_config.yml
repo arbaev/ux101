@@ -9,8 +9,8 @@ favicon: https://hexo.io/icon/favicon-96x96.png
 logo: http://www.microux.com/microux-logo.svg
 # logo: http://www.uxlearn.com/wp-content/themes/uxlearn/build/assets/img/logo-mini-uxlearn.svg
 
-# disqus
-#disqus_shortname: drakeleung
+# disqus comments
+disqus_shortname: ux101
 
 highlight:
   enable: true
@@ -38,7 +38,7 @@ default_post_title: Untitled
 social:
   # github: https://github.com/GallenHu
   # weibo: http://weibo.com/10010800
-  mail: mailto:timbrk@yandex.ru
+  mail: mailto:ux101@yandex.ru
   # twitter: https://twitter.com/GallenHu
 
 # widget
