@@ -44,6 +44,12 @@ highlight:
   auto_detect: false
   tab_replace:
 
+# Sitemap plugin
+## https://github.com/hexojs/hexo-generator-sitemap
+sitemap:
+  path: sitemap.xml
+  # template: ./sitemap_template.xml
+
 # Category & Tag
 default_category: uncategorized
 category_map:
