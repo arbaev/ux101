@@ -38,9 +38,7 @@
     <% if (page.comments){ %>
       <!-- Comments -->
       <div class="container">
-        <%- partial('_partial/comment', {
-            disqus: theme.disqus_shortname
-          }) %>
+        <%- partial('_partial/comment') %>
       </div>
     <% } %>
     <!-- Pre or Next -->

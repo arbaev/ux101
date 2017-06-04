@@ -10,7 +10,7 @@ logo: http://www.microux.com/microux-logo.svg
 # logo: http://www.uxlearn.com/wp-content/themes/uxlearn/build/assets/img/logo-mini-uxlearn.svg
 
 # disqus comments
-disqus_shortname: ux101
+# disqus_shortname: timly
 
 highlight:
   enable: true
