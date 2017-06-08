@@ -1,0 +1,3 @@
+User-agent: *
+Host: ux101.ru
+Sitemap: http://ux101.ru/sitemap.xml
